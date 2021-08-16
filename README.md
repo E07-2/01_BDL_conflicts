@@ -1,9 +1,14 @@
+<<<<<<< HEAD
+=======
 # Conflicts
 
 **Instructions**
 * As a class, set up a repository with a README file. In this file, you will create a class directory.
 * Each student must clone the repository and add their name to the directory (on the master branch). Push the changes made to the repository. 
 * Pull any new changes made to the repository and resolve any conflicts. 
+<<<<<<< HEAD
+# OLUMIDE JONES
+=======
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -92,6 +97,9 @@ hi ! i'm Saif
 <<<<<<< HEAD
 =======
 >>>>>>> b8f363270ebbb401ff96cf163acb56e694b44715
+<<<<<<< HEAD
+>>>>>>> f2f83af080f7462160959f971379c061fb508268
+=======
 >>>>>>> 26ce157642a8a388a1eded2332aa3b8884973698
 =======
 =======
@@ -122,5 +130,11 @@ hi ! i'm Saif
 ## Amanda
 =======
 >>>>>>> daa3075348fe35ea816364839ff30be86bf7d4f7
+<<<<<<< HEAD
  
  
+=======
+>>>>>>> 4da3037f597dea964afec2a7d318ce365c120cb3
+## Hi here is Martin B 
+>>>>>>> 5743e00f63b4de6e3ab9d989b8bd70fb22314b9f
+>>>>>>> ed151606482971ba5ee8db234f40994603c57b58

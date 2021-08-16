@@ -6,17 +6,18 @@
 * Pull any new changes made to the repository and resolve any conflicts. 
 
 <<<<<<< HEAD
-hi ! i'm Saif
+
 =======
 <<<<<<< HEAD
 
 
 =======
+## hi ! i'm Saif
 ## Hi, I'm Amir Ali Adel.
 ## Hi I am Maurice
 ## I am Deniz
 ## I am Martin J.
->>>>>>> 4e92c0545d5e3e51865d33840d9b8ae44d66f139
+ 4e92c0545d5e3e51865d33840d9b8ae44d66f139
 
 ## Hi, I'm Jade
 ## gideon

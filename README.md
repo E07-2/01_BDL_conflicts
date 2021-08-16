@@ -6,10 +6,6 @@
 * Pull any new changes made to the repository and resolve any conflicts. 
 
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
-hi ! i'm Saif
->>>>>>> b8f363270ebbb401ff96cf163acb56e694b44715
 =======
 <<<<<<< HEAD
 
@@ -26,9 +22,4 @@ hi ! i'm Saif
 =======
 
 ## Hi, I'm Jade
-<<<<<<< HEAD
 >>>>>>> 89498fef6284c2c11e3f4d9afabc0528b685b175
-=======
-## gideon
->>>>>>> 24b0326965f859c0e1d5fc6db3d1d017736aea42
->>>>>>> b8f363270ebbb401ff96cf163acb56e694b44715

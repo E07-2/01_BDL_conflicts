@@ -16,7 +16,7 @@ Hi! I´m Maurice
 
 ## Hi i'm Linda.
 
-Freeman
+##  Hi, I am Freeman
 
 Hello! I am martins
 

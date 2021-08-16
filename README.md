@@ -7,6 +7,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+Hi! I´m Maurice
+=======
+<<<<<<< HEAD
+=======
 # Hi, here is Fraidoon 
 =======
 <<<<<<< HEAD
@@ -30,6 +35,7 @@ Hello! I am martins
 >>>>>>> 4bf9d48e16f6a5e989dcd2ccddd4bc5905b44319
 =======
 >>>>>>> 4bf9d48e16f6a5e989dcd2ccddd4bc5905b44319
+>>>>>>> b71ca72aa67b3fa34454ad307f081597d604ada5
 
 >>>>>>> 26ce157642a8a388a1eded2332aa3b8884973698
 =======
@@ -56,9 +62,14 @@ hi ! i'm Saif
 =======
 >>>>>>> 4e92c0545d5e3e51865d33840d9b8ae44d66f139
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> c5dce42f053d3abc6a187ddc023c2e8cc1267fa2
+=======
+=======
 >>>>>>> ff56386778347f92ddd8cd3eefa2bf70a08be9a5
 =======
 >>>>>>> f2f83af080f7462160959f971379c061fb508268
+>>>>>>> 26ce157642a8a388a1eded2332aa3b8884973698
 
 ## Hi, I'm Jade
 <<<<<<< HEAD
@@ -68,6 +79,12 @@ hi ! i'm Saif
 =======
 ## gideon
 >>>>>>> 24b0326965f859c0e1d5fc6db3d1d017736aea42
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b8f363270ebbb401ff96cf163acb56e694b44715
+>>>>>>> 26ce157642a8a388a1eded2332aa3b8884973698
+=======
 =======
 =======
 >>>>>>> 89498fef6284c2c11e3f4d9afabc0528b685b175
@@ -91,4 +108,8 @@ hi ! i'm Saif
 >>>>>>> 4bf9d48e16f6a5e989dcd2ccddd4bc5905b44319
 >>>>>>> 902f3ee5f069a3906a204b62edc5c15b62e39a4f
 >>>>>>> de74da72966b544fcd9a2f006e19ef6ad8ed313d
+<<<<<<< HEAD
 ## Hello
+=======
+>>>>>>> b71ca72aa67b3fa34454ad307f081597d604ada5
+>>>>>>> daa3075348fe35ea816364839ff30be86bf7d4f7

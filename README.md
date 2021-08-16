@@ -7,10 +7,17 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Freeman
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Hello! I am martins
+=======
+>>>>>>> 4bf9d48e16f6a5e989dcd2ccddd4bc5905b44319
 
+>>>>>>> 26ce157642a8a388a1eded2332aa3b8884973698
 =======
 <<<<<<< HEAD
 Hi I'm Obinna
@@ -39,9 +46,16 @@ hi ! i'm Saif
 >>>>>>> f2f83af080f7462160959f971379c061fb508268
 
 ## Hi, I'm Jade
+<<<<<<< HEAD
+>>>>>>> 89498fef6284c2c11e3f4d9afabc0528b685b175
+=======
 ## gideon
 >>>>>>> 24b0326965f859c0e1d5fc6db3d1d017736aea42
 <<<<<<< HEAD
 =======
 >>>>>>> b8f363270ebbb401ff96cf163acb56e694b44715
+<<<<<<< HEAD
 >>>>>>> 26ce157642a8a388a1eded2332aa3b8884973698
+=======
+>>>>>>> f2f83af080f7462160959f971379c061fb508268
+>>>>>>> 4bf9d48e16f6a5e989dcd2ccddd4bc5905b44319

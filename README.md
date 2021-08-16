@@ -8,9 +8,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Hi, I'm Amir Ali Adel.
 
 ## Hi i'm Linda.
+=======
+Hello! I am martins
+>>>>>>> 4bf9d48e16f6a5e989dcd2ccddd4bc5905b44319
 =======
 
 >>>>>>> 26ce157642a8a388a1eded2332aa3b8884973698
@@ -43,11 +47,16 @@ hi ! i'm Saif
 ## Hi, I'm Jade
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 89498fef6284c2c11e3f4d9afabc0528b685b175
 =======
 ## gideon
 >>>>>>> 24b0326965f859c0e1d5fc6db3d1d017736aea42
 =======
+=======
+>>>>>>> 89498fef6284c2c11e3f4d9afabc0528b685b175
+=======
+>>>>>>> 4bf9d48e16f6a5e989dcd2ccddd4bc5905b44319
 ## gideon
 >>>>>>> 24b0326965f859c0e1d5fc6db3d1d017736aea42
 >>>>>>> b8f363270ebbb401ff96cf163acb56e694b44715

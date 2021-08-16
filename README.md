@@ -15,13 +15,9 @@ Hi! I´m Maurice
 ## Hi, I'm Amir Ali Adel.
 
 ## Hi i'm Linda.
-
 Freeman
-
 Hello! I am martins
-
 Hi I'm Obinna
-
 hi ! i'm Saif
 ## hi ! i'm Saif
 ## Hi, I'm Amir Ali Adel.
@@ -30,13 +26,13 @@ hi ! i'm Saif
 ## I am Martin J.
 ## Hi, I'm Jade
 
-## gideon
+This is Alejandra's branch creating a conlict!!!
 
 ## gideon
 
-## Hi , i'm Abdulwahed
+## Hi, i'm Abdulwahed
 
 ## Hello
 
-## Hi here is Martin B 
+#### Hi here is Martin B 
 

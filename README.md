@@ -7,6 +7,10 @@
 * Each student must clone the repository and add their name to the directory (on the master branch). Push the changes made to the repository. 
 * Pull any new changes made to the repository and resolve any conflicts. 
 <<<<<<< HEAD
+
+Hi! I'm Alejandra 
+=======
+<<<<<<< HEAD
 # OLUMIDE JONES
 =======
 
@@ -138,3 +142,10 @@ hi ! i'm Saif
 ## Hi here is Martin B 
 >>>>>>> 5743e00f63b4de6e3ab9d989b8bd70fb22314b9f
 >>>>>>> ed151606482971ba5ee8db234f40994603c57b58
+<<<<<<< HEAD
+=======
+
+
+## I am Abou
+>>>>>>> 5dcdc815680f134bdd0498451ea05f97cfabd163
+## Amanda

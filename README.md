@@ -1,17 +1,14 @@
-<<<<<<< HEAD
-=======
 # Conflicts
 
 **Instructions**
 * As a class, set up a repository with a README file. In this file, you will create a class directory.
 * Each student must clone the repository and add their name to the directory (on the master branch). Push the changes made to the repository. 
 * Pull any new changes made to the repository and resolve any conflicts. 
-<<<<<<< HEAD
+
 
 Hi! I'm Alejandra 
-=======
-<<<<<<< HEAD
 # OLUMIDE JONES
+<<<<<<< HEAD
 =======
 
 <<<<<<< HEAD
@@ -26,26 +23,20 @@ Hi! I´m Maurice
 <<<<<<< HEAD
 =======
 >>>>>>> daa3075348fe35ea816364839ff30be86bf7d4f7
+=======
+Hi! I´m Maurice
+
+>>>>>>> 69048ead242443e4048c6f6be42eb452b8854a00
 # Hi, here is Fraidoon 
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ## Hi, I'm Amir Ali Adel.
 
 ## Hi i'm Linda.
-=======
-=======
+
 Freeman
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 5b70870a2bcd0608aded9b9a654c4ec991dc401d
+
 Hello! I am martins
+<<<<<<< HEAD
 >>>>>>> 4bf9d48e16f6a5e989dcd2ccddd4bc5905b44319
 =======
 >>>>>>> 4bf9d48e16f6a5e989dcd2ccddd4bc5905b44319
@@ -64,13 +55,22 @@ hi ! i'm Saif
 >>>>>>> b71ca72aa67b3fa34454ad307f081597d604ada5
 =======
 <<<<<<< HEAD
-
-
 =======
+>>>>>>> 69048ead242443e4048c6f6be42eb452b8854a00
+
+Hi I'm Obinna
+
+<<<<<<< HEAD
+=======
+=======
+hi ! i'm Saif
+## hi ! i'm Saif
+>>>>>>> 69048ead242443e4048c6f6be42eb452b8854a00
 ## Hi, I'm Amir Ali Adel.
 ## Hi I am Maurice
 ## I am Deniz
 ## I am Martin J.
+<<<<<<< HEAD
 ## I am Amanda
 >>>>>>> 4e92c0545d5e3e51865d33840d9b8ae44d66f139
 <<<<<<< HEAD
@@ -95,23 +95,14 @@ hi ! i'm Saif
 <<<<<<< HEAD
 >>>>>>> 89498fef6284c2c11e3f4d9afabc0528b685b175
 =======
+=======
+## Hi, I'm Jade
+
+>>>>>>> 69048ead242443e4048c6f6be42eb452b8854a00
 ## gideon
->>>>>>> 24b0326965f859c0e1d5fc6db3d1d017736aea42
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b8f363270ebbb401ff96cf163acb56e694b44715
-<<<<<<< HEAD
->>>>>>> f2f83af080f7462160959f971379c061fb508268
-=======
->>>>>>> 26ce157642a8a388a1eded2332aa3b8884973698
-=======
-=======
-=======
->>>>>>> 89498fef6284c2c11e3f4d9afabc0528b685b175
-=======
->>>>>>> 4bf9d48e16f6a5e989dcd2ccddd4bc5905b44319
+
 ## gideon
+<<<<<<< HEAD
 >>>>>>> 24b0326965f859c0e1d5fc6db3d1d017736aea42
 <<<<<<< HEAD
 >>>>>>> b8f363270ebbb401ff96cf163acb56e694b44715
@@ -144,8 +135,19 @@ hi ! i'm Saif
 >>>>>>> ed151606482971ba5ee8db234f40994603c57b58
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> 69048ead242443e4048c6f6be42eb452b8854a00
 
+## Hi , i'm Abdulwahed
 
 ## I am Abou
+<<<<<<< HEAD
 >>>>>>> 5dcdc815680f134bdd0498451ea05f97cfabd163
 ## Amanda
+=======
+
+## Hi here is Martin B 
+
+## Hi this is Alka
+>>>>>>> 69048ead242443e4048c6f6be42eb452b8854a00
+## hii Amanda

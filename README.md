@@ -6,9 +6,17 @@
 * Pull any new changes made to the repository and resolve any conflicts. 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Hi, I'm Amir Ali Adel.
 
 ## Hi i'm Linda.
+=======
+<<<<<<< HEAD
+Hi I'm Obinna
+=======
+hi ! i'm Saif
+>>>>>>> b8f363270ebbb401ff96cf163acb56e694b44715
+>>>>>>> f2f83af080f7462160959f971379c061fb508268
 =======
 <<<<<<< HEAD
 
@@ -19,10 +27,19 @@
 ## I am Deniz
 ## I am Martin J.
 >>>>>>> 4e92c0545d5e3e51865d33840d9b8ae44d66f139
+<<<<<<< HEAD
+>>>>>>> ff56386778347f92ddd8cd3eefa2bf70a08be9a5
+=======
 
 ## Hi, I'm Jade
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 89498fef6284c2c11e3f4d9afabc0528b685b175
 =======
 ## gideon
 >>>>>>> 24b0326965f859c0e1d5fc6db3d1d017736aea42
+=======
+## gideon
+>>>>>>> 24b0326965f859c0e1d5fc6db3d1d017736aea42
+>>>>>>> b8f363270ebbb401ff96cf163acb56e694b44715
+>>>>>>> f2f83af080f7462160959f971379c061fb508268
